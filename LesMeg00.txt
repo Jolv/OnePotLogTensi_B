@@ -1,3 +1,6 @@
 21:59 04.01.2016
 Brukt på Fuchsia 1/1-16
 - går for fort rundt - bør nedsettes til 30 sec.
+07:58 05/01/2016
+Nytt opplegg: GitHub brukes nå som en historisk log for endringer ved hjelp av Branch
+Ellers jobbes det mot OneDrive som før

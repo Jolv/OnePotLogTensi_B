@@ -13,6 +13,7 @@ Leonardo:                   2    3
 Leave the IO (VDDIO) pin unconnected. This pin is for 1.8V systems
 _____________________________________________
 Reused 27/5-15 
+Flyttet til GitHub Jolv 5/1-16
 */
 
 #include <SFE_BMP180.h>
